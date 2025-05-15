@@ -132,23 +132,40 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 
 ---
 
-### 🎯 Use Case Diagram for Booking System
+## 🎯 Use Case Diagrams
 
-Below is the use case diagram for the booking system, illustrating the interactions between different actors (User, Host, Admin) and their use cases:
+### 🧾 What is a Use Case Diagram?
 
-📌 **Actors:**
+A **Use Case Diagram** is a visual modeling tool used in software engineering to illustrate the interactions between users (called *actors*) and a system. It shows the system's intended functionality and how different users engage with it.
+
+### 💡 Benefits of Use Case Diagrams:
+- Helps identify system functionality from a user’s perspective.
+- Serves as a communication tool between stakeholders and developers.
+- Aids in capturing and clarifying functional requirements.
+- Provides a high-level overview of user interactions and goals.
+
+---
+
+### 📌 Use Case Diagram for Booking System
+
+This diagram illustrates the main actors and use cases in our booking management system.
+
+**Actors:**
 - Guest (User)
 - Host
 - Admin
 
-📌 **Key Use Cases:**
+**Primary Use Cases:**
 - Search Listings
 - View Property Details
 - Make a Booking
-- Manage Booking
+- Manage Bookings
+- Login / Signup
 - List a Property
-- Login/Signup
-- Manage Users
-- View Reports
+- Manage Properties
+- View Reports (Admin)
+- Manage Users (Admin)
+
+### 🖼️ Diagram
 
 ![alx-booking-uc](https://github.com/user-attachments/assets/eeff8ab2-a3fd-43b0-b6fa-847e6b7fb4db)
