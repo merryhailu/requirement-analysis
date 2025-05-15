@@ -170,4 +170,36 @@ This diagram illustrates the main actors and use cases in our booking management
 
 ![alx-booking-uc png](https://github.com/user-attachments/assets/c7c54396-726d-4bd4-b21a-5124c325aae9)
 
+✅ Acceptance Criteria
+📌 What is Acceptance Criteria?
+Acceptance Criteria are a set of conditions or requirements that a software product must meet for it to be accepted by the end user, customer, or stakeholders.
+These are defined before development begins and are used to ensure that the functionality aligns with the expectations.
+
+🧠 Importance of Acceptance Criteria in Requirement Analysis
+✅ Clarifies what needs to be built and why.
+
+✅ Defines the scope and boundaries of a user story or feature.
+
+✅ Serves as a checklist for developers and QA teams.
+
+✅ Reduces ambiguity and miscommunication among team members.
+
+✅ Supports effective testing and validation of completed work.
+
+💡 Example: Acceptance Criteria for the Checkout Feature
+User Story: As a guest, I want to complete the booking and payment process easily so that I can reserve a property.
+
+Acceptance Criteria:
+
+✅ User must be able to view a summary of the booking (dates, guests, total cost).
+
+✅ User must be able to enter payment details securely.
+
+✅ System must validate payment inputs before submission.
+
+✅ A confirmation message should be displayed after successful payment.
+
+✅ Booking details should be saved to the database and visible in user’s booking history.
+
+These criteria ensure the feature is functioning correctly, user-friendly, and secure.
 
