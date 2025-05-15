@@ -116,3 +116,39 @@ They define system attributes such as speed, security, availability, and user ex
 ---
 
 By defining both types of requirements clearly, teams ensure that they not only build the right features but also build them right.
+
+## 🧩 Use Case Diagrams
+
+### 📖 What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of the interactions between users (actors) and a system. It helps in identifying and organizing the system’s functional requirements from the user's perspective.
+
+### ✅ Benefits of Use Case Diagrams:
+- Provides a high-level overview of system functionality.
+- Clearly defines the roles of different users (actors).
+- Helps stakeholders understand system behavior quickly.
+- Aids developers in identifying features to implement.
+- Supports communication between business and technical teams.
+
+---
+
+### 🎯 Use Case Diagram for Booking System
+
+Below is the use case diagram for the booking system, illustrating the interactions between different actors (User, Host, Admin) and their use cases:
+
+📌 **Actors:**
+- Guest (User)
+- Host
+- Admin
+
+📌 **Key Use Cases:**
+- Search Listings
+- View Property Details
+- Make a Booking
+- Manage Booking
+- List a Property
+- Login/Signup
+- Manage Users
+- View Reports
+
+![alx-booking-uc](https://github.com/user-attachments/assets/eeff8ab2-a3fd-43b0-b6fa-847e6b7fb4db)
