@@ -78,3 +78,41 @@ The Requirement Analysis phase involves several critical activities that help tr
   - Activities include reviews, walkthroughs, and prototype demonstrations.
 
 These activities ensure a solid foundation for the development process, minimizing risks and aligning the final product with user needs.
+## 🧩 Types of Requirements
+
+In software development, requirements are typically categorized into two major types: **Functional** and **Non-functional** requirements. 
+Understanding both is essential to ensure the system works as intended and performs reliably under real-world conditions.
+
+### 🔧 Functional Requirements
+
+Functional requirements describe **what the system should do** — the core features and behavior of the application.
+
+#### 📌 Definition:
+They specify the interactions between the system and its users, and outline the services the system must provide.
+
+#### ✅ Examples for Booking Management System:
+- Users must be able to **search for available properties** by location, date, and number of guests.
+- Users must be able to **create an account, log in, and log out**.
+- Hosts must be able to **list new properties** with photos, descriptions, and prices.
+- Guests should be able to **book a property** and receive confirmation.
+- The system must **send booking confirmation emails** to users.
+- Admins can **manage user accounts and property listings**.
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements describe **how the system should perform** — focusing on performance, usability, scalability, and reliability.
+
+#### 📌 Definition:
+They define system attributes such as speed, security, availability, and user experience.
+
+#### ✅ Examples for Booking Management System:
+- The platform should have a **response time of less than 2 seconds** for search queries.
+- The system must be **available 99.9% of the time** (high availability).
+- All sensitive user data must be **encrypted and securely stored**.
+- The UI should be **mobile responsive and accessible** across devices.
+- The system should support **at least 10,000 concurrent users**.
+- The platform must comply with **GDPR data protection regulations**.
+
+---
+
+By defining both types of requirements clearly, teams ensure that they not only build the right features but also build them right.
