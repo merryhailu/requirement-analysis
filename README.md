@@ -168,5 +168,6 @@ This diagram illustrates the main actors and use cases in our booking management
 
 ### 🖼️ Diagram
 
-![alx-booking-uc png](https://github.com/user-attachments/assets/b91a5957-ca86-48c9-8b2b-06c099814f94)
+![alx-booking-uc png](https://github.com/user-attachments/assets/c7c54396-726d-4bd4-b21a-5124c325aae9)
+
 
