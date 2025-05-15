@@ -52,3 +52,29 @@ likelihood of rework, scope creep, and budget overspending due to unclear or cha
 ### 3. 🎯 Improves Product Quality and User Satisfaction
 Understanding and addressing real user needs leads to better-designed systems that solve the right problems. This directly 
 contributes to higher-quality software and increased user satisfaction upon delivery.
+
+## 🛠️ Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several critical activities that help transform vague business needs into clear, actionable requirements. Here are the five key activities:
+
+- **📥 Requirement Gathering**
+  - Collect raw information from stakeholders, users, and other sources.
+  - Methods include interviews, surveys, questionnaires, and document reviews.
+
+- **🧠 Requirement Elicitation**
+  - Dig deeper to uncover underlying needs and expectations.
+  - Techniques include brainstorming, workshops, observation, and use case creation.
+
+- **📝 Requirement Documentation**
+  - Clearly record all gathered requirements in an organized format.
+  - Output may include Software Requirement Specifications (SRS), user stories, or use cases.
+
+- **📊 Requirement Analysis and Modeling**
+  - Analyze requirements for feasibility, clarity, consistency, and completeness.
+  - Use models like flowcharts, data flow diagrams (DFDs), and UML diagrams to visualize the system.
+
+- **✅ Requirement Validation**
+  - Ensure that all documented requirements are correct, complete, and approved by stakeholders.
+  - Activities include reviews, walkthroughs, and prototype demonstrations.
+
+These activities ensure a solid foundation for the development process, minimizing risks and aligning the final product with user needs.
